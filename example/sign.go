@@ -4,8 +4,8 @@ import (
 	"log"
 	"math/big"
 
+	"github.com/arunjot12/go-ethereum-hdwallet"
 	"github.com/davecgh/go-spew/spew"
-	"github.com/ethereum-optimism/go-ethereum-hdwallet"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/core/types"
 )
